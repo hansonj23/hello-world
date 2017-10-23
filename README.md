@@ -3,7 +3,7 @@
 # hello-world
 > Testing out changes with github and readme files
 
-Testing the waters of GitHub
+Testing the waters of GitHub Conflicting Change here
 
 ## Installing / Getting started
 
@@ -19,7 +19,7 @@ Here you should say what actually happens when you execute the code above. - Obv
 ## Developing
 
 ### Built With
-List main libraries, frameworks used including versions (React, Angular etc...)
+List main libraries, frameworks used including versions (React, Angular etc...) Non-conflicting change here.
 
 ### Prerequisites
 What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
