@@ -1,4 +1,4 @@
-![Logo of the project](./images/logo.sample.png)
+![Logo of the project](./Database.png)
 
 # hello-world
 > Testing out changes with github and readme files
