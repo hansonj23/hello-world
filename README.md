@@ -3,12 +3,12 @@
 # hello-world
 > Testing out changes with github and readme files
 
-Testing the waters of GitHub
+Testing the waters of GitHub Change 1
 
 ## Installing / Getting started
 
 A quick introduction of the minimal setup you need to get a hello world up &
-running.
+running. Also Change here.
 
 ```shell
 commands here
