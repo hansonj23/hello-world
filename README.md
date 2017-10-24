@@ -1,35 +1,36 @@
-![Logo of the project](./Database.png)
+<!--![Logo of the project](./Database.png)-->
+# Spring MVC Reference Implementation
+<!--> Reference Implementation featuring-->
 
-# hello-world
-> Testing out changes with github and readme files
-
-Testing the waters of GitHub Conflicting Change here
+Reference Implementation featuring Spring MVC capabilities and features
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running. Also Change here.
+To run this application you'll need Tomcat 8.5/Java 8.
 
+<!--
 ```shell
 commands here
-```
-
-Here you should say what actually happens when you execute the code above. - Obviously nothing yet.  Theres nothing to run!
+```-->
+WHAT'S HERE? Here you should say what actually happens when you execute the code above. - Obviously nothing yet.  Theres nothing to run!
 
 ## Developing
 
 ### Built With
-List main libraries, frameworks used including versions (React, Angular etc...) Non-conflicting change here.
+Spring Core, Spring Web, Spring MVC, Sitemesh, Hibernate, H2, Sentry UI Template
 
-### Prerequisites
-What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.
+### Prerequisites - ANYTHING?
+<!-- Anything here? What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.-->
 
 
 ### Setting up Dev
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
-
+* Check out the project from SVN along with the <a href="http://svn4.sentry.com:8080/svn/Community/CommonBuild/tags/4.0.1/CommonBuildAnt">CommonBuildAnt</a> project.
+* Resove Ivy Dependencies
+* Ensure any Build Path Issues are resolved.  Expects jdk8 JRE System Library and tomcat8dev Tomcat System Libraries.
+* Create a Tomcat instance and Build/Deploy
+* Start Tomcat
+* Navigate to http://localhost:<port>/
 ```shell
 git clone https://github.com/your/your-project.git
 cd your-project/
