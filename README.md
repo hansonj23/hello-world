@@ -19,7 +19,7 @@ TODO: Need a quick run feature??  Create something using Spring Boot?
 Spring Core, Spring Web, Spring MVC, Sitemesh, Sentry UI Template
 
 ### Prerequisites - ANYTHING?
-<!-- Anything here? What is needed to set up the dev environment. For instance, global dependencies or any other tools. include download links.-->
+Need the Sentry distributions of Eclipse, Tomcat 8.5 and Java 8
 
 
 ### Setting up Dev
@@ -29,27 +29,23 @@ Spring Core, Spring Web, Spring MVC, Sitemesh, Sentry UI Template
 * Ensure any Build Path Issues are resolved.  This project expects jdk8 JRE System Library and tomcat8dev Tomcat System Libraries.
 * Create a Tomcat instance and Build/Deploy
 * Start Tomcat
-* Navigate to http://localhost:<port>/
+* Navigate to http://localhost:(port)/
 
 ## Configuration
 
-No special configuration optiosn for this project yet.
+No special configuration options for this project.
 
 ## Tests
 
-No Tests Currently
-<!--
-Describe and show how to run the tests with code examples.
-Explain what these tests test and why.
--->
+No Tests
 
 ## Api Reference
 
-No API Currently
+No API
 
 ## Database
 
-No Database currently
+Given that this is illustrating the WEB and MVC tier, this project uses a Mock Service layer so no database is used.
 
 <!--## Licensing
 
