@@ -7,18 +7,12 @@ Reference Implementation featuring Spring MVC capabilities and features
 
 To run this application you'll need Tomcat 8.5/Java 8.
 
-<!--
-```shell
-commands here
-```-->
-TODO: Need a quick run feature??  Create something using Spring Boot?
-
 ## Developing
 
 ### Built With
 Spring Core, Spring Web, Spring MVC, Sitemesh, Sentry UI Template
 
-### Prerequisites - ANYTHING?
+### Prerequisites
 Need the Sentry distributions of Eclipse, Tomcat 8.5 and Java 8
 
 
@@ -30,6 +24,19 @@ Need the Sentry distributions of Eclipse, Tomcat 8.5 and Java 8
 * Create a Tomcat instance and Build/Deploy
 * Start Tomcat
 * Navigate to http://localhost:(port)/
+
+### Building
+
+The project is set up to use Eclipse to build locally.  There is no CI proceess for this example.
+
+### Deploying / Publishing
+
+There is no deploy or CI process for this example application.
+
+## Versioning
+
+We can maybe use [SemVer](http://semver.org/) for versioning. 
+For the versions available, we'd typically link to the /tags repository <a href="http://svn4.sentry.com:8080/svn/ArchitectureShared/tags/JavaReferenceImpls"> link </a>
 
 ## Configuration
 
@@ -43,10 +50,14 @@ No Tests
 
 No API
 
+## Style guide
+
+Using the Sentry UI Template.
+
 ## Database
 
 Given that this is illustrating the WEB and MVC tier, this project uses a Mock Service layer so no database is used.
 
-<!--## Licensing
+## Links
 
-State what the license is and how to find the text version of the license.-->
+Add links
